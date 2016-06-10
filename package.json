@@ -1,0 +1,30 @@
+{
+  "name": "gulp-draftsman",
+  "version": "0.5.0",
+  "description": "A gulp plugin to rebuild source files from a sourcemap",
+  "license": "MIT",
+  "repository": "chryton/gulp-draftsman",
+  "author": {
+    "name": "Andrew Mauney",
+    "email": "andrew.e.mauney@gmail.com",
+    "url": "http://www.andrewemauney.com"
+  },
+  "engines": {
+    "node": ">=5.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "gulpplugin",
+    "sourcemap",
+    "map"
+  ],
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "mkdirp": "^0.5.1",
+    "through2": "^2.0.1"
+  },
+  "devDependencies": {
+  }
+}
