@@ -1,6 +1,6 @@
 # gulp-draftsman
 
-Hello! You may be wondering what on earth this is. Basically it takes a sourcemap, currently only JS and CSS, and reconstructs the source files embedded with them and creates the parent file with the appropriate includes (except for JS, but you can see what is going on with that in #1)
+Hello! You may be wondering what on earth this is. Basically it takes a sourcemap, currently only JS and CSS, and reconstructs the source files embedded with them and creates the parent file with the appropriate includes (except for JS, but you can see what is going on with that in [#1](https://github.com/chryton/gulp-draftsman/issues/1))
 
 ## Backstory
 
@@ -40,4 +40,4 @@ The tasks you see in `tasks/draftsman.js` should be fairly easy to configure.
 
 # Roadmap
 
-To see what is on the books, take a look at #1.
+To see what is on the books, take a look at [#1](https://github.com/chryton/gulp-draftsman/issues/1).
